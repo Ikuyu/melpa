@@ -1,0 +1,1 @@
+(teletext-nos :fetcher github :repo "Ikuyu/emacs-teletext-nos")
